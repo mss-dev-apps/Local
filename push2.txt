@@ -1,4 +1,4 @@
 push 2
 echo a
 echo 2
-
+echo "hello hru"
